@@ -38,4 +38,4 @@ jobs:
         #   deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later
         #  retry-on-snapshot-warnings: true
         #  allow-licenses: 'MIT'
-          deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later, NOASSERTION
+          deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later
